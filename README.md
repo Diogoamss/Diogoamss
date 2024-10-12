@@ -25,8 +25,3 @@
 
 Estudante de Desenvolvimento de Sistemas <br>
 Pela escola Etec Bento Quirino<br><br>
-
-    ɴᴏᴡ ᴘʟᴀʏɪɴɢ: Wesley's Theory. Kendrick Lamar
-    ───────────⚪────── ◄◄⠀▐▐ ⠀►► 2:12/ 4:47
-    🔊 ───○ ⠀ ᴴᴰ ⚙️
-
