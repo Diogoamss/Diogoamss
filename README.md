@@ -12,17 +12,17 @@
 
 
 ### tecnologias que domino 👨‍💻
-<div>
+
 ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogoamss&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogoamss&layout=compact&bg_color=00000000)
-</div>
+
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <br><br>
 
-Estudante de Desenvolvimento de Sistemas <br>
-Pela escola Etec Bento Quirino<br><br>
