@@ -1,6 +1,6 @@
 
 
-## Ola, me chamo Diego 👋
+## Ola, me chamo Diogo 👋
 
 
 ### redes sociais 📱
