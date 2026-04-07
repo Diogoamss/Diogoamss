@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/pt-BR/view/coding-gif-10599410442824479167"  />
+  <img height="200" src="https://media.tenor.com/aTx3zLr2HjUAAAAj/penguin-pengu.gif"  />
 </div>
 
 ###
@@ -72,5 +72,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diogoamss/diogoamss/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diogoamss/diogoamss/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
